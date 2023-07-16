@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varad Dhumale</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
-<img align="right" alt="Coding" style="border-radius: 10px;" width="400" src="https://varad177.github.io/portfolio/assets/bitmojivarad.jpeg"/>
+<img align="right" alt="Coding" style="border-radius: 10px;" width="350" src="https://varad177.github.io/portfolio/assets/bitmojivarad.jpeg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varad177&label=Profile%20views&color=0e75b6&style=flat" alt="varad177" /> </p>
 

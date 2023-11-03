@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varad177&label=Profile%20views&color=0e75b6&style=flat" alt="varad177" /> </p>
 
-- 🔭 I’m currently working on **Day-Work Project**
+- 🔭 I’m currently working on **Day-Long Jobs Project**
 
 - 🌱 I’m currently learning **REACT , MONGO-DB**
 

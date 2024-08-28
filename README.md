@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varad177&label=Profile%20views&color=0e75b6&style=flat" alt="varad177" /> </p>
 
-- 🔭 I’m currently working on **Day-Long Jobs Project**
+- 🔭 I’m currently working on **Campuss Connect Project**
 
-- 🌱 I’m currently learning **REACT , MONGO-DB**
+- 🌱 I’m  **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://varad177.github.io/portfolio/](https://varad177.github.io/portfolio/)
 
-- 💬 Ask me about **HTML, CSS , JS**
+- 💬 Ask me about **React, Express, Nodejs, MongoDB, Java**
 
 - 📫 How to reach me **varaddhumale177@gmail.com**
 

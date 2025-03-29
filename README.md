@@ -8,7 +8,7 @@
 
 - 🌱 I’m  **Full Stack Developer**
 
-- 👨‍💻 All of my projects are available at [https://varad177.github.io/portfolio/](https://varad177.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://varaddhumale.in](https://varaddhumale.in)
 
 - 💬 Ask me about **React, Express, Nodejs, MongoDB, Java**
 

@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Varad Dhumale</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">A passionated Software Engineer from India</h3>
 <img align="right" alt="Coding" style="border-radius: 10px;" width="350" src="https://varad177.github.io/portfolio/assets/bitmojivarad.jpeg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varad177&label=Profile%20views&color=0e75b6&style=flat" alt="varad177" /> </p>
 
-- 🔭 I’m currently working on **Campuss Connect Project**
+- 🔭 I’m currently working in **Wonderbiz Technologies**
 
-- 🌱 I’m  **Full Stack Developer**
+- 🌱 I’m  **Software Engineer**
 
 - 👨‍💻 All of my projects are available at [https://varaddhumale.in](https://varaddhumale.in)
 
-- 💬 Ask me about **React, Express, Nodejs, MongoDB, Java**
+- 💬 Ask me about **React, Express, Nodejs, MongoDB, Java, C#, Sql-Server, .Net, LLMs, DevOps And ManyMore...**
 
 - 📫 How to reach me **varaddhumale177@gmail.com**
 
